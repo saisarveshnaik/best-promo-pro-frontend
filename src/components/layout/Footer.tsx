@@ -24,7 +24,7 @@ export function Footer() {
           <div>
             <Logo dark className="origin-left scale-90 md:scale-95" />
             <p className="mt-4 text-[13px] text-white/45">5611 Wellington Road, Suite 115, Gainesville</p>
-            <p className="mt-3 text-[16px] font-medium leading-none md:text-[34px]">(84) 943 446 000</p>
+            <p className="mt-3 text-[14px] font-medium leading-none md:text-[22px]">(84) 943 446 000</p>
             <a href="#" className="mt-3 inline-block text-[14px] text-white/65 underline">
               entry@support.com
             </a>
@@ -46,7 +46,7 @@ export function Footer() {
           ))}
 
           <div>
-            <h4 className="max-w-[360px] text-[20px] font-semibold leading-[1.35] md:text-[32px]">
+            <h4 className="max-w-[360px] text-[16px] font-semibold leading-[1.35] md:text-[22px]">
               Join Our Newsletter And Get $50 Discount For Your First Order
             </h4>
             <div className="mt-6 flex h-[60px] items-center rounded-full border border-white/20 pl-6 pr-2">
